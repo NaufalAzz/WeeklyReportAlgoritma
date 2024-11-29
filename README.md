@@ -91,7 +91,9 @@ Terdapat 3 jobsheet pada modul ini:
 ## Modul 10 <i>Enumerasi dan structure</i>
 
 Terdapat 3 jobsheet pada modul ini:
-1. 
+1. Program tebak angka, program ini meminta kita untuk menbak angka antara 1-20, dan menampilkan jumlah percobaan serta menyediakan kesempatan untuk bermain lagi.
+2. Program menentukan Zodiak, pengguna akan diminta untuk memasukan tanggal lahir lalu program akan menampilkan zodiak anda berdasarkan aturan tanggal yang telah ditentukan
+3. Program menyimpan data mahasiswa, program ini meminta pengguna untuk menginput NPM, NAMA, TGL LAHIR, ALAMAT, HP, lalu program akan menampilkan output sesuai urutan
 
 
 
