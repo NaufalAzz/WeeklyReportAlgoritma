@@ -51,4 +51,7 @@ Terdapat 4 jobsheet pada modul ini:
 2. Program penghitung diskon, menghitung total pembayaran setelah menerapkan diskon berdasarkan jumlah total pembelian.
 3. Program luas permukaan, menghitung luas permukaan berbagai bentuk geometri, yaitu bola, kubus, balok, dan tabung.
 4. Program nilai akhir mahasiswa, program menghitung nilai akhir seorang siswa berdasarkan nilai kehadiran, tugas, UTS (Ujian Tengah Semester), dan UAS (Ujian Akhir Semester) dan memberikan grade berdasarkan nilai akhir yang dihitung.
+<br>
+
+##  Modul 6 Flow Control Looping
 
