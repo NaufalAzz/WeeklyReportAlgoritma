@@ -86,7 +86,12 @@ Terdapat 4 jobsheet pada modul ini:
 
 Terdapat 3 jobsheet pada modul ini:
 1. Program segitiga BORLAND, Program mencetak pola dari string "BORLAND" dengan menggunakan pointer
-2. Program tampilan kalimat terbalik, 
+
+<br>
+## Modul 10 <i>Enumerasi dan structure</i>
+
+Terdapat 3 jobsheet pada modul ini:
+1. 
 
 
 
