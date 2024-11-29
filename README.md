@@ -21,3 +21,12 @@ Terdapat 4 Jobsheet pada modul ini:
 2. Program data dan nilai mahasiwa, program ini digunakan untuk mengumpulkan data mahasiswa, termasuk nama, NIM, program studi, fakultas, dan nilai-nilai akademik. Program ini juga menghitung nilai akhir berdasarkan bobot yang telah ditentukan.
 3. Program luas segitiga, program yang menghitung luas segitiga berdasarkan nilai alas dan tinggi yang telah ditentukan lalu menampilkan hasilnya.
 4. Program luas persegi panjang, program yang menghitung luas persegi panjang berdasarkan nilai panjang dan lebar yang telah ditentukan lalu menampilkan hasilnya.
+<br>
+
+## Modul 3 Variabel Konstanta dan Tipe Data
+Variabel menyimpan nilai sementara dalam program, dengan tipe data yang menentukan jenis nilai yang digunakan. Dalam C, variabel harus mengikuti aturan tertentu, seperti tidak diawali simbol atau angka dan bersifat case sensitive. Tipe data mengelompokkan data untuk pengolahan, termasuk char, integer, dan float. Konversi tipe data mengubah tipe data, sementara konstanta adalah nilai tetap yang tidak dapat diubah, dibuat dengan #define atau const, dan disarankan menggunakan huruf kapital untuk namanya.
+
+Terdapat 3 Jobsheet pada modul ini:
+1. Program konversi mata uang, program mengonversi jumlah uang dalam Rupiah (Rp) menjadi Dollar ($) berdasarkan nilai tukar yang telah ditentukan.
+2. Program konversi suhu, program ini mengonversi suhu dari Celcius ke tiga skala suhu lainnya: Kelvin, Fahrenheit, dan Reamur.
+3. Program volume dan luas bola, program ini menghitung volume dan luas permukaan sebuah bola basket berdasarkan diameter yang diberikan.
