@@ -78,7 +78,18 @@ Modul berfokus pada konsep fungsi dan prosedur dalam pemrograman, dijelaskan pen
 Terdapat 4 jobsheet pada modul ini:
 1. Program perkalian dua bilangan positif, pengguna akan diminta memasukan dua buah bilangan positif lalu program akan mengkalikannya dan menampilkan hasil serta cara perkaliannya.
 2. Program perhitungan aritmetik, Pengguna akan diminta memasukan sebuah perhitungan arimetik(dengan bilangan dan simbol +, -, *, /) lalu program akan menampilkan hasil perhitungan aritmetiknya.
-3. program menghitung luas dan keliling lingkaran
+3. program menghitung luas dan keliling lingkaran, menggunan fungsi "luas()" dan "keliling()" program ini meminta meminta pengguna untuk memasukan input dan menampilkan hasil luas dan keliling lingkaran.
+4. Program menghitung besaran diskon, jika pembeli belanja dibawah 1jt maka tidak ada diskon, jika belanja diatas 1 jt dan dibawah 3 jt, maka mendapat diskon 20% dan Jika belanja diatas 3 jt, maka mendapat diskon 35%
+<br>
+
+## Modul 9 <i>Pointer</i>
+
+Terdapat 3 jobsheet pada modul ini:
+1. Program segitiga BORLAND, Program mencetak pola dari string "BORLAND" dengan menggunakan pointer
+2. Program tampilan kalimat terbalik, 
+
+
+
 
 
 
