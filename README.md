@@ -30,3 +30,12 @@ Terdapat 3 Jobsheet pada modul ini:
 1. Program konversi mata uang, program mengonversi jumlah uang dalam Rupiah (Rp) menjadi Dollar ($) berdasarkan nilai tukar yang telah ditentukan.
 2. Program konversi suhu, program ini mengonversi suhu dari Celcius ke tiga skala suhu lainnya: Kelvin, Fahrenheit, dan Reamur.
 3. Program volume dan luas bola, program ini menghitung volume dan luas permukaan sebuah bola basket berdasarkan diameter yang diberikan.
+<br>
+
+## Modul 4 Operator
+Operator dalam pemrograman adalah simbol yang digunakan untuk melakukan operasi pada nilai atau variabel, dibagi menjadi tiga jenis berdasarkan jumlah operand: unary (1 operand), binary (2 operand), dan ternary (3 operand). Operator aritmatika seperti penjumlahan, pengurangan, perkalian, dan pembagian digunakan untuk operasi matematika, sedangkan operator penugasan memberikan nilai pada variabel. Operator pembanding membandingkan dua nilai dan menghasilkan true atau false, sedangkan operator logika digunakan untuk operasi logika. Selain itu, operator bitwise melakukan operasi berdasarkan bit dari nilai, dan terdapat juga operator lain seperti alamat memori, pointer, ternary, increment, dan decrement yang berfungsi dalam berbagai konteks pemrograman.
+<br>
+
+Terdapat 4 Jobsheet pada modul ini:
+1. 
+
