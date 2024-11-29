@@ -44,4 +44,11 @@ Terdapat 4 Jobsheet pada modul ini:
 
 ## Modul 5 Flow Control Decision Making
 Flow Control Decision Making membahas pengambilan keputusan dalam pemrograman C, mencakup pernyataan if, if else, switch case, operator ternary, dan percabangan bersarang. Materi ini menjelaskan cara mengubah jalur eksekusi program dan mencakup latihan praktis seperti kalkulator sederhana dan program diskon, dengan tujuan meningkatkan pemahaman dan keterampilan dalam kontrol aliran pemrograman C.
+<br>
+
+Terdapat 4 jobsheet pada modul ini:
+1. Program Kalkulator , pengguna akan diminta untuk memilih antara (penjumlahan, pengurangan, perkalian, pembagian dan modulus), lalu menginput 2 bilangan, di akhir program akan memberikan hasilnya.
+2. Program penghitung diskon, menghitung total pembayaran setelah menerapkan diskon berdasarkan jumlah total pembelian.
+3. Program luas permukaan, menghitung luas permukaan berbagai bentuk geometri, yaitu bola, kubus, balok, dan tabung.
+4. Program nilai akhir mahasiswa, program menghitung nilai akhir seorang siswa berdasarkan nilai kehadiran, tugas, UTS (Ujian Tengah Semester), dan UAS (Ujian Akhir Semester) dan memberikan grade berdasarkan nilai akhir yang dihitung.
 
