@@ -37,5 +37,11 @@ Operator dalam pemrograman adalah simbol yang digunakan untuk melakukan operasi 
 <br>
 
 Terdapat 4 Jobsheet pada modul ini:
-1. 
+1. Program koversi jumlah detik, mengonversi jumlah detik yang dimasukkan pengguna menjadi format waktu jam, menit, dan sisa detik.
+2. Program struk pembelian, berfungsi untuk mencetak struk pembelian berdasarkan input dari pengguna(nama pembeli,, nama barang, harga satuan, jumlah barang) lalu akan menampilkan data tersebut beserta total harga yang harus dibayar.
+3. Program penghitung nilai akhir, menghitung nilai akhir seorang siswa berdasarkan nilai presensi, praktek, UTS (Ujian Tengah Semester), dan UAS (Ujian Akhir Semester) dengan bobot yang telah ditentukan.
+4. Program tarif nonton film, menghitung total biaya menonton film berdasarkan durasi yang dimasukkan pengguna(untutk tarif jam pertama 15k untuk tarif jam selanjutnya setengah dari jam pertama).
+
+## Modul 5 Flow Control Decision Making
+Flow Control Decision Making membahas pengambilan keputusan dalam pemrograman C, mencakup pernyataan if, if else, switch case, operator ternary, dan percabangan bersarang. Materi ini menjelaskan cara mengubah jalur eksekusi program dan mencakup latihan praktis seperti kalkulator sederhana dan program diskon, dengan tujuan meningkatkan pemahaman dan keterampilan dalam kontrol aliran pemrograman C.
 
