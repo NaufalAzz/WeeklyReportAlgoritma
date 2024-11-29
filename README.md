@@ -54,4 +54,7 @@ Terdapat 4 jobsheet pada modul ini:
 <br>
 
 ##  Modul 6 Flow Control Looping
+Terdapat empat jenis perulangan yang dibahas: perulangan For, While, Do While, dan Nested Loop. Perulangan For digunakan untuk situasi di mana jumlah iterasi sudah diketahui, sedangkan While dan Do While digunakan ketika jumlah iterasi tidak pasti. Perulangan While mengecek kondisi sebelum eksekusi, sedangkan Do While mengecek setelah eksekusi setidaknya satu kali. Nested Loop memungkinkan perulangan di dalam perulangan lainnya. 
+
+Terdapat 4 jobsheet pada modul ini:
 
