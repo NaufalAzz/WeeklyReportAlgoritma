@@ -64,7 +64,7 @@ Terdapat 4 jobsheet pada modul ini:
 
 
 ## Modul 7 <i>Array</i>
-dalm modul ini menjelasakan konsep dari array dalam pemrograman, dengan tujuan untuk menjelaskan dan mengimplementasikan penggunaan array menggunakan Integrated Development Environment (IDE). Array didefinisikan sebagai struktur data yang memungkinkan penyimpanan sekumpulan data dalam satu tempat, di mana setiap elemen memiliki indeks yang dimulai dari nol, sehingga memudahkan akses dan pengolahan data.
+Dalam modul ini menjelasakan konsep dari array dalam pemrograman, dengan tujuan untuk menjelaskan dan mengimplementasikan penggunaan array menggunakan Integrated Development Environment (IDE). Array didefinisikan sebagai struktur data yang memungkinkan penyimpanan sekumpulan data dalam satu tempat, di mana setiap elemen memiliki indeks yang dimulai dari nol, sehingga memudahkan akses dan pengolahan data.
 
 Terdapat 4 jobsheet pada modul ini:
 1. Program rata-rata, program ini memungkinkan pengguna untuk mencari rata rata dari 20 mahasiswa menggunakan  array
@@ -73,7 +73,12 @@ Terdapat 4 jobsheet pada modul ini:
 notifikasi “berhasil login”, sebaliknya kalua salah muncul notifikasi di layer “password salah”.
 
 ## Modul 8 <i>Fungsi & Prosedur</i>
+Modul berfokus pada konsep fungsi dan prosedur dalam pemrograman, dijelaskan pengertian fungsi sebagai sub-program yang dapat digunakan kembali, serta pentingnya fungsi dalam struktur program. Materi yang dibahas mencakup berbagai aspek, seperti penggunaan fungsi dengan dan tanpa parameter, serta tipe data yang mengembalikan nilai. Selain itu, file ini juga menjelaskan tentang fungsi rekursif, yang merupakan fungsi yang memanggil dirinya sendiri, serta perbedaan antara variabel lokal dan global, yang mempengaruhi cakupan akses variabel dalam program.
 
+Terdapat 4 jobsheet pada modul ini:
+1. Program perkalian dua bilangan positif, pengguna akan diminta memasukan dua buah bilangan positif lalu program akan mengkalikannya dan menampilkan hasil serta cara perkaliannya.
+2. Program perhitungan aritmetik, Pengguna akan diminta memasukan sebuah perhitungan arimetik(dengan bilangan dan simbol +, -, *, /) lalu program akan menampilkan hasil perhitungan aritmetiknya.
+3. program menghitung luas dan keliling lingkaran
 
 
 
