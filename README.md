@@ -60,4 +60,20 @@ Terdapat 4 jobsheet pada modul ini:
 1. Program pengulangan, program ini menggunakan fungsi loop jika pengguna memilih "y" maka akan mengulang kembali menjalankan program jika "n" maka akan menghentikan program dan menamplikan berapa kali pengguna melakukan loop.
 2. Program segitiga pattern, program yang diberikan adalah contoh penggunaan perulangan bersarang (nested loop) dalam bahasa pemrograman C untuk mencetak pola bintang segitiga.
 3. Program egitiga angka, Program ini adalah contoh sederhana dari penggunaan perulangan bersarang untuk mencetak tabel perkalian.
+4. Program ATM, pengguna akan diminta untuk memilih antara (Cek saldo, setoran, penarikan tunai, exit).
+
+
+## Modul 7 <i>Array</i>
+dalm modul ini menjelasakan konsep dari array dalam pemrograman, dengan tujuan untuk menjelaskan dan mengimplementasikan penggunaan array menggunakan Integrated Development Environment (IDE). Array didefinisikan sebagai struktur data yang memungkinkan penyimpanan sekumpulan data dalam satu tempat, di mana setiap elemen memiliki indeks yang dimulai dari nol, sehingga memudahkan akses dan pengolahan data.
+
+Terdapat 4 jobsheet pada modul ini:
+1. Program rata-rata, program ini memungkinkan pengguna untuk mencari rata rata dari 20 mahasiswa menggunakan  array
+2. Program input nama mahsiswa, program akan meminta banyak mahasiswa yang akan diinputkan  kemudian menampilka keseluruhan dari mahasiswa tersebut
+3. Program halaman login, meminta pengguna untuk menginput username dan password, jika password yang digunakan benar maka muncul
+notifikasi “berhasil login”, sebaliknya kalua salah muncul notifikasi di layer “password salah”.
+
+## Modul 8 <i>Fungsi & Prosedur</i>
+
+
+
 
