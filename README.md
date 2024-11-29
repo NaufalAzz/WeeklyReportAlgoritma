@@ -57,4 +57,7 @@ Terdapat 4 jobsheet pada modul ini:
 Terdapat empat jenis perulangan yang dibahas: perulangan For, While, Do While, dan Nested Loop. Perulangan For digunakan untuk situasi di mana jumlah iterasi sudah diketahui, sedangkan While dan Do While digunakan ketika jumlah iterasi tidak pasti. Perulangan While mengecek kondisi sebelum eksekusi, sedangkan Do While mengecek setelah eksekusi setidaknya satu kali. Nested Loop memungkinkan perulangan di dalam perulangan lainnya. 
 
 Terdapat 4 jobsheet pada modul ini:
+1. Program pengulangan, program ini menggunakan fungsi loop jika pengguna memilih "y" maka akan mengulang kembali menjalankan program jika "n" maka akan menghentikan program dan menamplikan berapa kali pengguna melakukan loop.
+2. Program segitiga pattern, program yang diberikan adalah contoh penggunaan perulangan bersarang (nested loop) dalam bahasa pemrograman C untuk mencetak pola bintang segitiga.
+3. Program egitiga angka, Program ini adalah contoh sederhana dari penggunaan perulangan bersarang untuk mencetak tabel perkalian.
 
