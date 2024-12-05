@@ -64,7 +64,7 @@ Terdapat 4 jobsheet pada modul ini:
 
 
 ## Modul 7 <i>Array</i>
-Dalam modul ini menjelasakan konsep dari array dalam pemrograman, dengan tujuan untuk menjelaskan dan mengimplementasikan penggunaan array menggunakan Integrated Development Environment (IDE). Array didefinisikan sebagai struktur data yang memungkinkan penyimpanan sekumpulan data dalam satu tempat, di mana setiap elemen memiliki indeks yang dimulai dari nol, sehingga memudahkan akses dan pengolahan data.
+Modul ini menjelasakan konsep dari array dalam pemrograman, dengan tujuan untuk menjelaskan dan mengimplementasikan penggunaan array menggunakan Integrated Development Environment (IDE). Array didefinisikan sebagai struktur data yang memungkinkan penyimpanan sekumpulan data dalam satu tempat, di mana setiap elemen memiliki indeks yang dimulai dari nol, sehingga memudahkan akses dan pengolahan data.
 
 Terdapat 4 jobsheet pada modul ini:
 1. Program rata-rata, program ini memungkinkan pengguna untuk mencari rata rata dari 20 mahasiswa menggunakan  array
@@ -83,6 +83,7 @@ Terdapat 4 jobsheet pada modul ini:
 <br>
 
 ## Modul 9 <i>Pointer</i>
+Modul ini menjelaskan konsep Pointer dalam pemrograman C, yaitu variabel yang menyimpan alamat memori dari variabel lain, serta penggunaannya untuk pass by reference dan mengakses elemen array.
 
 Terdapat 3 jobsheet pada modul ini:
 1. Program segitiga BORLAND, Program mencetak pola dari string "BORLAND" dengan menggunakan pointer
@@ -91,13 +92,20 @@ Terdapat 3 jobsheet pada modul ini:
 
 
 ## Modul 10 <i>Enumerasi dan structure</i>
+Modul ini adalah panduan tentang penggunaan Enumerasi (Enum) dan Struktur (Struct) dalam pemrograman C, termasuk cara implementasi dan penggunaan typedef, serta latihan praktis untuk membuat program sederhana seperti permainan tebak angka dan penyimpanan data mahasiswa.
 
 Terdapat 3 jobsheet pada modul ini:
 1. Program tebak angka, program ini meminta kita untuk menbak angka antara 1-20, dan menampilkan jumlah percobaan serta menyediakan kesempatan untuk bermain lagi.
 2. Program menentukan Zodiak, pengguna akan diminta untuk memasukan tanggal lahir lalu program akan menampilkan zodiak anda berdasarkan aturan tanggal yang telah ditentukan
 3. Program menyimpan data mahasiswa, program ini meminta pengguna untuk menginput NPM, NAMA, TGL LAHIR, ALAMAT, HP, lalu program akan menampilkan output sesuai urutan
+<br>
+
+## Modul 11 <i>File handling in C</i>  
+Modul ini menjelaskan tentang file handling dalam pemrograman C, termasuk cara membaca dan menulis data ke file. Terdapat dua jenis file, yaitu file teks dan binary, serta berbagai mode pembukaan file menggunakan fungsi fopen(). Untuk membaca, digunakan fungsi fgets(), dan untuk menulis, digunakan fungsi fputs(). Contoh program dan latihan disediakan untuk menginput biodata mahasiswa ke dalam file, menekankan pentingnya penyimpanan data agar tetap ada meskipun program ditutup.
 
 
+Terdapat 1 Jobsheet pada modul ini:
+1.Program biodata mahsiswa,untuk menginput biodata mahasiswa dan menyimpannya ke dalam file teks bernama datamahasiswa.txt.
 
 
 
