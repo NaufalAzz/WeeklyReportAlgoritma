@@ -1,0 +1,12 @@
+Mahasiswa ke-1
+Nama: naufal
+NIM: 24343029
+Jurusan: Elektronika
+Program Studi: TI
+
+Mahasiswa ke-2
+Nama: hasby
+NIM: 20994388
+Jurusan: Elektro
+Program Studi: Elektro
+
