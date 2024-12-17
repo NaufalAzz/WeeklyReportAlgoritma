@@ -79,7 +79,7 @@ Terdapat 4 jobsheet pada modul ini:
 1. Program perkalian dua bilangan positif, pengguna akan diminta memasukan dua buah bilangan positif lalu program akan mengkalikannya dan menampilkan hasil serta cara perkaliannya.
 2. Program perhitungan aritmetik, Pengguna akan diminta memasukan sebuah perhitungan arimetik(dengan bilangan dan simbol +, -, *, /) lalu program akan menampilkan hasil perhitungan aritmetiknya.
 3. program menghitung luas dan keliling lingkaran, menggunan fungsi "luas()" dan "keliling()" program ini meminta meminta pengguna untuk memasukan input dan menampilkan hasil luas dan keliling lingkaran.
-4. Program menghitung besaran diskon, jika pembeli belanja dibawah 1jt maka tidak ada diskon, jika belanja diatas 1 jt dan dibawah 3 jt, maka mendapat diskon 20% dan Jika belanja diatas 3 jt, maka mendapat diskon 35%
+4. Program menghitung besaran diskon, jika pembeli belanja dibawah 1jt maka tidak ada diskon, jika belanja diatas 1 jt dan dibawah 3 jt, maka mendapat diskon 20% dan Jika belanja diatas 3 jt, maka mendapat diskon 35%.
 <br>
 
 ## Modul 9 <i>Pointer</i>
@@ -87,6 +87,8 @@ Modul ini menjelaskan konsep Pointer dalam pemrograman C, yaitu variabel yang me
 
 Terdapat 3 jobsheet pada modul ini:
 1. Program segitiga BORLAND, Program mencetak pola dari string "BORLAND" dengan menggunakan pointer
+2. ProgrM pembalik kalimat, program akan membalikkan kalimat yang dimasukkan oleh pengguna
+3. Manupulasi pointer, meskipun LaylaPointer menunjuk ke Lesley, nilai Balmond tetap konsisten karena kita menggunakan nilai yang ditunjuk oleh pointer untuk menghitungnya.
 
 <br>
 
@@ -96,8 +98,8 @@ Modul ini adalah panduan tentang penggunaan Enumerasi (Enum) dan Struktur (Struc
 
 Terdapat 3 jobsheet pada modul ini:
 1. Program tebak angka, program ini meminta kita untuk menbak angka antara 1-20, dan menampilkan jumlah percobaan serta menyediakan kesempatan untuk bermain lagi.
-2. Program menentukan Zodiak, pengguna akan diminta untuk memasukan tanggal lahir lalu program akan menampilkan zodiak anda berdasarkan aturan tanggal yang telah ditentukan
-3. Program menyimpan data mahasiswa, program ini meminta pengguna untuk menginput NPM, NAMA, TGL LAHIR, ALAMAT, HP, lalu program akan menampilkan output sesuai urutan
+2. Program menentukan Zodiak, pengguna akan diminta untuk memasukan tanggal lahir lalu program akan menampilkan zodiak anda berdasarkan aturan tanggal yang telah ditentukan.
+3. Program menyimpan data mahasiswa, program ini meminta pengguna untuk menginput NPM, NAMA, TGL LAHIR, ALAMAT, HP, lalu program akan menampilkan output sesuai urutan.
 <br>
 
 ## Modul 11 <i>File handling in C</i>  
